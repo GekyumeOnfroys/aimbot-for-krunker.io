@@ -25,9 +25,5 @@
 - Tampermonkey
 - ES6 Support
 
-### Collaborators:
-- William Thomson
-- Tehchy
-
 ### Preview:
 ![](https://i.imgur.com/bd1gjNS.png?raw=true)
